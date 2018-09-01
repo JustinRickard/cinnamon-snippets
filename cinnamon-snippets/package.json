@@ -1,0 +1,24 @@
+{
+    "name": "cinnamon",
+    "displayName": "cinnamon",
+    "description": "Snippets for Cinnamon front-end framework",
+    "version": "1.0.0",
+    "publisher": "redriveronline",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "react": "^16.4.2"
+    }
+}

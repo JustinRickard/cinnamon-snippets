@@ -1,0 +1,18 @@
+{
+    "Form Builder": {
+        "prefix": "formb",
+        "description": "FormBuilder with all props",
+        "body": [
+            "<FormBuilder",
+            "  initialData={$0}",
+            "  loadAction={$1}",
+            "  loadParams={$2}",
+            "  submitAction={$3}",
+            "  renderForm={formProps => (",
+            "    <Form {...formProps}>}",
+            "    </Form>",
+            "  )}",
+            "/>"
+        ]
+    }
+}
