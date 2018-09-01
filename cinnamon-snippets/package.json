@@ -18,7 +18,5 @@
             }
         ]
     },
-    "dependencies": {
-        "react": "^16.4.2"
-    }
+    "dependencies": {}
 }
