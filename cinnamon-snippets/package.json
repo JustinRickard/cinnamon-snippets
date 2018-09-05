@@ -2,8 +2,8 @@
     "name": "cinnamon-snippets",
     "displayName": "Cinnamon Snippets",
     "description": "Snippets for Cinnamon front-end framework",
-    "version": "1.0.1",
-    "publisher": "redriveronline",
+    "version": "1.0.0",
+    "publisher": "red-river-software",
     "repository": "https://github.com/JustinRickard/cinnamon-snippets.git",
     "engines": {
         "vscode": "^1.23.0"
