@@ -2,8 +2,9 @@
     "name": "cinnamon-snippets",
     "displayName": "Cinnamon Snippets",
     "description": "Snippets for Cinnamon front-end framework",
-    "version": "1.0.0",
+    "version": "0.0.3",
     "publisher": "red-river-software",
+    "icon": "icon.png",
     "repository": "https://github.com/JustinRickard/cinnamon-snippets.git",
     "engines": {
         "vscode": "^1.23.0"
@@ -15,6 +16,10 @@
         "snippets": [
             {
                 "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
                 "path": "./snippets/snippets.json"
             }
         ]

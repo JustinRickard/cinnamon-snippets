@@ -22,6 +22,6 @@ No known issues.
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.3
 
 Initial release of cinnamon-snippets
